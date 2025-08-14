@@ -1,0 +1,5 @@
+requests
+beautifulsoup4 
+gradio
+lxml html5lib
+urllib3
