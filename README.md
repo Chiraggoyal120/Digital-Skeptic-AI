@@ -20,3 +20,14 @@ Empowering critical thinking by providing AI-driven, multi-agent analysis of new
 ```bash
 git clone https://github.com/yourusername/digital-skeptic-ai.git
 cd digital-skeptic-ai
+
+Go to OpenRouter and sign up for a free account.
+
+Once logged in, navigate to API Keys from your profile menu.
+
+Click "Create API Key".
+
+Give it a name (e.g., Digital Skeptic AI) and click "Generate".
+
+Copy the generated key — it will look like:
+sk-or-v1-xxxxxxxxxxxxxxxxxxxxxxxx
