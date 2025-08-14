@@ -1,0 +1,8 @@
+digital-skeptic-ai/
+│
+├── Digital_skeptic_AI.py
+├── config.py
+├── README.md
+├── requirements.txt
+├── assets/
+│   └── example_report.png
